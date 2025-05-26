@@ -1,0 +1,22 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.cache
+*.log
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore packages and environment
+packages/
+.env
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.db
